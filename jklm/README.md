@@ -1,0 +1,2 @@
+# jklm.fun Script
+Make sure the current game is about to start or has started before following the instructions; the script will not work if you input it on any other page. Copy the dictionary into the console and assign it to the variable a; this should look like ``` a = [dictionary contents] ```. Then, paste the script in. A button should appear that will automatically submit a word that has not been typed before when clicked. Reload and repaste the script once the current game has ended. 
